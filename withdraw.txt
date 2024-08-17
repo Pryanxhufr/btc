@@ -1,2 +1,3 @@
-Wallet Adress : hfihhJGUYUdt76456765jheahRgud86aSD756
+Withdraw request:
+Adress : hfihhJGUYUdt76456765jheahRgud86aSD756
 Status : processing | Amount : 10000$ 
