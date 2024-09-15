@@ -1,1 +1,3 @@
 Withdraw request:
+Adress : bc1qknxuzkqpp9ndnae70mwag3sm6****
+Status : sucessful | Amount : 952.38$
