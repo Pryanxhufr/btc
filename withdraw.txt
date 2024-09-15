@@ -1,3 +1,1 @@
 Withdraw request:
-Adress : 
-Status :  | Amount : $
